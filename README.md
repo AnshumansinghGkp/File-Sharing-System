@@ -259,10 +259,10 @@ Open a Pull Request once your changes are ready.
 
 ## 👨‍💻 Author
 
-**Anchal Singh**  
+**Anshuman Singh**  
 Full Stack Developer
 
-- GitHub: https://github.com/imanchalsingh
+- GitHub: https://github.com/AsnhumansinghGkp
 
 ---
 
